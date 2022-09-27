@@ -29,5 +29,8 @@ elif machine=='papel' and user== 'tijera':
     print("Gana el usuario")
 elif machine== 'piedra' and user=='tijera':
     print("Gana la maquina ")
+elif machine== 'papel' and user=='papel':
+    print("Juega de nuevo ")
+
 
 
